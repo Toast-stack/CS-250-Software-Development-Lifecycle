@@ -74,3 +74,6 @@ Each module includes a reflective journal documenting insights, challenges, and 
 **Title:** Software Development Lifecycle Application
 **Author:** Zachary Nicholas
 **Description:** The final project encapsulates the comprehensive application of SDLC principles learned throughout the course. Detailed documentation is available in `Final Project Software Development Zachary Nicholas.docx`.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
